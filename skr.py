@@ -5,3 +5,7 @@ print("sosi")
 def sos():
     print("sos")
     return 0
+
+def main():
+    print("saa")
+    return 0
