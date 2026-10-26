@@ -1,11 +1,1 @@
-print("sosi")
-#no u
-
-74235823957274562
-def sos():
-    print("sos")
-    return 0
-
-def main():
-    print("saa")
-    return 0
+#жизнь блядям и сукам а воры нахуй 
